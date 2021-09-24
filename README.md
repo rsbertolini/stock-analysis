@@ -9,11 +9,11 @@ and summarize the totals for each stock.
 ## Results
 The original All Stocks Analysis macro performed slower than our refactored code.    
 Original 2017 run time
-(Resources/Original 2017 runtime.png)
+(Resources/Original_2017_runtime.png)
 Refactored 2017 run time
 (Resources/VBA_Challenge_2017.png)
 Original 2018 run time
-(Resources/Original 2018 runtime.png)
+(Resources/Original_2018_runtime.png)
 Refactored 2018 run time
 (Resources/VBA_Challenge_2018.png)
 
@@ -21,6 +21,7 @@ The difference in performance time is due to the difference in the way we handle
 for loops one row at a time. 
 
 Original code:
+
 For i = 0 To 11
         ticker = tickers(i)
         totalVolume = 0
