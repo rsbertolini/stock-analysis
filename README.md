@@ -10,7 +10,7 @@ and summarize the totals for each stock.
 The original All Stocks Analysis macro performed slower than our refactored code.    
 Original 2017 run time
 
-![Original 2017](/resources/Original_2017_runtime.png)
+![Original 2017](/resources/Original_2017.png)
 
 Refactored 2017 run time
 
@@ -18,7 +18,7 @@ Refactored 2017 run time
 
 Original 2018 run time
 
-![Original 2018](/resources/Original_2018_runtime.png)
+![Original 2018](/resources/Original_2018.png)
 
 Refactored 2018 run time
 
