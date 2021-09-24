@@ -9,7 +9,7 @@ and summarize the totals for each stock.
 ## Results
 The original All Stocks Analysis macro performed slower than our refactored code.    
 Original 2017 run time
-![Original 2017](/main/Resources/Original_2017_runtime.png)
+https://github.com/rsbertolini/stock-analysis/blob/main/resources/Original_2017_%20runtime.png
 Refactored 2017 run time
 [Refactored 2017](/Resources/VBA_Challenge_2017.png)
 Original 2018 run time
