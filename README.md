@@ -9,13 +9,13 @@ and summarize the totals for each stock.
 ## Results
 The original All Stocks Analysis macro performed slower than our refactored code.    
 Original 2017 run time
-![Original 2017](/Resources/Original_2017_runtime.png)
+[Original 2017](/Resources/Original_2017_runtime.png)
 Refactored 2017 run time
-![Refactored 2017](/Resources/VBA_Challenge_2017.png)
+[Refactored 2017](/Resources/VBA_Challenge_2017.png)
 Original 2018 run time
-![Original 2018](/Resources/Original_2018_runtime.png)
+[Original 2018](/Resources/Original_2018_runtime.png)
 Refactored 2018 run time
-![Refactored 2018](/Resources/VBA_Challenge_2018.png)
+[Refactored 2018](/Resources/VBA_Challenge_2018.png)
 
 The difference in performance time is due to the difference in the way we handled the output in the 2 macros.  In the original code we wrote each output row within our nested 
 for loops one row at a time. 
